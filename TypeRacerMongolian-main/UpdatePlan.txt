@@ -1,0 +1,8 @@
+Design: Usukhuu
+Level: Muug Tengis
+icons: Usukhuu
+Main Menu: Muug Tengis
+Difficulty settings:Muug Tengis
+Timer:Muug Tengis
+Refresh leaderboard: Dorj, Yadam, Babu
+Heden ug bicihee songdog setting: Muug Tengis
